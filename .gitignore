@@ -1,0 +1,37 @@
+# залежності та збірка
+node_modules/
+bin/
+obj/
+dist/
+
+# секрети та локальні налаштування
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.conf
+vpn_state.json
+*.zip
+
+# IDE та ОС
+.vs/
+.idea/
+.DS_Store
+
+__pycache__
+.venv
+done/
+save/
+save_bad/
+*.csv*
+*.txt*
+*.done
+
+# mailing lists (personal email addresses)
+list/
+*.sav
+
+node_modules
+post-log.json
+pre-log.json
