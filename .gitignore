@@ -35,3 +35,5 @@ list/
 node_modules
 post-log.json
 pre-log.json
+# third-party course material
+VoyageAI_API_Key_Directions.pdf
